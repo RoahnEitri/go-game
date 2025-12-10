@@ -4,16 +4,11 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-/**
- * Unit test for simple App.
- */
-public class AppTest {
-
-    /**
-     * Rigorous Test :-)
-     */
+// TODO: Implement Client test
+public class ClientTest {
+    
     @Test
-    public void shouldAnswerWithTrue() {
+    public void testClient() {
         assertTrue(true);
     }
 }
