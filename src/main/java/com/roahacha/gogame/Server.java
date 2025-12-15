@@ -7,7 +7,7 @@ public class Server {
     final int port = 12543;
 
     public static void main(String[] args) {
-        
+
     }
 
     private Server() {
